@@ -7,12 +7,14 @@ header {
     position: fixed;
     left: 0px;
     right: 0px;
+    text-align: center;
 }
 nav {
     background-color: black;
     position: sticky;
     top: 80px;
     color: white;
+    text-align: center;
 }
 main {
     margin: 50px;
@@ -21,17 +23,17 @@ main {
 #section1 {
     background-color: #bababa;
     margin: 10px;
-    padding: 10px;
+    padding: 25px;
 }
 #section2 {
     background: #bababa;
     margin: 10px;
-    padding: 10px;
+    padding: 25px;
 }
 #section3 {
      background: #bababa;
      margin: 10px;
-     padding: 10px;
+     padding: 25px;
  }
 footer{
     background-color: #3E065F;
