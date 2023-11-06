@@ -1,13 +1,40 @@
 body {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 header {
     background-color: brown;
     position: fixed;
+    left: 0px;
+    right: 0px;
 }
 nav {
-    background-color: brown;
+    background-color: black;
     position: sticky;
+    top: 80px;
     color: white;
+}
+main {
+    margin: 50px;
+    padding-top: 60px;
+}
+#section1 {
+    background-color: #bababa;
+    margin: 10px;
+    padding: 10px;
+}
+#section2 {
+    background: #bababa;
+    margin: 10px;
+    padding: 10px;
+}
+#section3 {
+     background: #bababa;
+     margin: 10px;
+     padding: 10px;
+ }
+footer{
+    background-color: #3E065F;
+    color: white;
+    text-align: center
 }
