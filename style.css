@@ -1,7 +1,9 @@
+/*Canvi d'estil al body de la pàgina*/
 body {
     margin: 0px;
     padding: 0px;
 }
+/*Canvi d'estil al header de la pàgina*/
 header {
     background-color: brown;
     position: fixed;
@@ -9,6 +11,7 @@ header {
     right: 0px;
     text-align: center;
 }
+/*Canvi d'estil al nav de la pàgina*/
 nav {
     background-color: black;
     position: sticky;
@@ -16,10 +19,12 @@ nav {
     color: white;
     text-align: center;
 }
+/*Canvi d'estil al main de la pàgina*/
 main {
     margin: 50px;
     padding-top: 60px;
 }
+/*Canvi d'estil a les seccions de la pàgina*/
 #section1 {
     background-color: #bababa;
     margin: 10px;
@@ -35,6 +40,7 @@ main {
      margin: 10px;
      padding: 25px;
  }
+/*Canvi d'estil al footer de la pàgina*/
 footer{
     background-color: #3E065F;
     color: white;
